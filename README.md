@@ -41,3 +41,16 @@ Inspirations :
 - Mobile responsiveness
 
 ## Pages
+
+- Home Page
+- Category Page
+- Product Detail Page
+- Cart Page
+- Checkout Page
+- About Page
+- Search Page
+- Contact Page
+- User Account Page (Login, Register, Profile)
+- Order History Page
+- Wishlist Page
+- FAQ Page
