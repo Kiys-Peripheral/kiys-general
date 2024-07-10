@@ -6,7 +6,7 @@ KIYS is an online platform specializing in cutting-edge tech products to enhance
 
 - UI Design : [Figma](https://www.figma.com/design/jYd73GGy8MLq3oL6eUf0nm/%5BBootcamp%5D---Kiys-Ecommerce?node-id=3-734&t=Cq8HKaval7SDjBZ6-1)
 - Frontend :
-  - Repository :
+  - Repository : [kiys-storefront](https://github.com/chianyungcode/kiys-storefront)
   - Deployment :
 - Backend :
   - Repository : [kiys-backend](https://github.com/chianyungcode/kiys-backend)
