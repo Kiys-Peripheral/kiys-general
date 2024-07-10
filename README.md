@@ -10,12 +10,12 @@ At KIYS, we understand the importance of reliable tools in software development,
 
 ## Link
 
-- UI Design : [Figma](https://figma.com)
+- UI Design : [Figma](https://www.figma.com/design/jYd73GGy8MLq3oL6eUf0nm/%5BBootcamp%5D---Kiys-Ecommerce?node-id=3-734&t=Cq8HKaval7SDjBZ6-1)
 - Frontend :
   - Repository :
   - Deployment :
 - Backend :
-  - Repository :
+  - Repository : [kiys-backend](https://github.com/chianyungcode/kiys-backend)
   - Deployment :
 
 Inspirations :
