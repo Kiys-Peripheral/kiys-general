@@ -11,7 +11,7 @@ At KIYS, we understand the importance of reliable tools in software development,
 ## Link
 
 - UI Design : [Figma](https://figma.com)
-- Frontend :
+- Frontend (Storefront) :
   - Repository :
   - Deployment :
 - Backend :
