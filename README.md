@@ -1,21 +1,15 @@
 # KIYS PROJECT
 
-KIYS is an innovative online platform dedicated to meeting all your peripheral needs, specializing in a wide range of cutting-edge tech products essential for enhancing your digital experience. From high-performance keyboards and precision mice to immersive headphones and top-of-the-line True Wireless Stereo (TWS) devices, KIYS offers a diverse selection of premium peripherals designed to elevate your computing and entertainment setups.
-
-With a focus on quality, functionality, and user experience, KIYS sets itself apart as a go-to destination for tech enthusiasts and professionals seeking reliable and stylish accessories for their devices. Our carefully curated collection of peripherals not only caters to the demands of modern software developers but also aligns with the latest trends in the ever-evolving tech industry.
-
-Whether you are a seasoned developer looking to optimize your workflow with responsive input devices or a casual user in search of sleek and durable peripherals, KIYS provides a seamless shopping experience backed by detailed technical documentation. Our commitment to transparency and customer satisfaction ensures that you can make informed decisions based on comprehensive product information, specifications, and compatibility details, empowering you to choose the perfect peripherals that suit your specific needs.
-
-At KIYS, we understand the importance of reliable tools in software development, and our dedication to delivering high-quality peripherals is evident in every product we offer. Explore our website today and discover how KIYS can enhance your computing experience with top-tier peripherals tailored to meet the demands of the tech-savvy community.
+KIYS is an online platform specializing in cutting-edge tech products to enhance your digital experience. They offer a diverse selection of premium peripherals like keyboards, mice, headphones, and True Wireless Stereo (TWS) devices. KIYS focuses on quality, functionality, and user experience, making them a go-to destination for tech enthusiasts and professionals. Their curated collection caters to developers and aligns with the latest tech trends. Whether you're a developer or a casual user, KIYS provides a seamless shopping experience with detailed technical documentation for informed decisions. Their commitment to transparency and customer satisfaction ensures you find the perfect peripherals for your needs, enhancing your computing experience. Explore KIYS today for top-tier peripherals tailored for the tech-savvy community.
 
 ## Link
 
 - UI Design : [Figma](https://figma.com)
-- Frontend (Storefront) :
+- Frontend :
   - Repository :
   - Deployment :
 - Backend :
-  - Repository :
+  - Repository : [kiys-backend](https://github.com/chianyungcode/kiys-backend)
   - Deployment :
 
 Inspirations :
