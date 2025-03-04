@@ -6,7 +6,7 @@ KIYS is an online platform specializing in cutting-edge tech products to enhance
 
 - UI Design : [Figma](https://figma.com)
 - Frontend :
-  - Repository : [kiys-vite](https://github.com/chianyungcode/kiys-vite)
+  - Repository : [kiys-vite](https://github.com/chianyungcode/kiys-storefront-2)
   - Deployment :
 - Backend :
   - Repository : [kiys-backend](https://github.com/chianyungcode/kiys-backend)
